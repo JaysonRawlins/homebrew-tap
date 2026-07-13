@@ -1,6 +1,6 @@
 cask "shoveit" do
-  version "1.1.4"
-  sha256 "b197ff50bf4ffa10c2a6847239a79b8d58738591295f7021c4fb5a9e6de19bfd"
+  version "1.1.5"
+  sha256 "50f775682d4a219aba8a686b83d0bdd1b5bbf963085e9ce7c0cdf9789bddb5f5"
 
   url "https://github.com/JaysonRawlins/ShoveIt/releases/download/v#{version}/ShoveIt.app.tar.gz"
   name "ShoveIt"
